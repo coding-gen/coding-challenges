@@ -1,2 +1,2 @@
 # coding-challenge
-A technical coding challenge for sentiment analysis.
+A collection of technical coding challenges.
