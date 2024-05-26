@@ -1,2 +1,2 @@
-# coding-challenge
-A collection of technical coding challenges.
+# coding-challenges
+A collection of NLP coding challenges in python.
